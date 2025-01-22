@@ -1,5 +1,5 @@
 # BlogCraft - Votre Assistant IA pour la Rédaction de Blogs
-![alt text](<Capture d'écran 2025-01-22 020711-1.png>)
+![image](https://github.com/user-attachments/assets/a759f7c2-4887-4b5d-a495-21453d52443c)
 
 
 **BlogCraft** est une application web interactive qui utilise l'intelligence artificielle (IA) pour vous aider à rédiger des articles de blog de haute qualité. Grâce à l'API Google Gemini, BlogCraft génère des contenus originaux, informatifs et engageants en fonction des titres et des mots-clés que vous fournissez.
